@@ -40,10 +40,7 @@ Sebelum menjalankan bot, pastikan Anda memiliki:
    };
    ```
 
-4. (Opsional) Buat file `password.txt` dengan password default untuk semua akun:
-   ```
-   passworddefault123
-   ```
+
 
 ## ▶️ Cara Menjalankan
 
