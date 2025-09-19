@@ -1,4 +1,4 @@
 export const TELEGRAM_CONFIG = {
-    BOT_TOKEN: '12345687:AAEXTcFp6oHn6YRPHG5Luqz9Gl5-20x9HwA',
-    CHAT_ID: '123456789'
+    BOT_TOKEN: 'YOUR_BOT_TOKEN_HERE',  // Token dari @BotFather
+    CHAT_ID: 'YOUR_CHAT_ID_HERE'       // Chat ID Anda
 };
